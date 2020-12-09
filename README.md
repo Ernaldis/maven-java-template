@@ -161,15 +161,15 @@ Project Link: [https://github.com/Ernaldis/maven-java-template](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ernaldis/maven-java.svg?style=for-the-badge
-[contributors-url]: https://github.com/ernaldis/maven-java/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ernaldis/maven-java.svg?style=for-the-badge
-[forks-url]: https://github.com/ernaldis/maven-java/network/members
-[stars-shield]: https://img.shields.io/github/stars/ernaldis/maven-java.svg?style=for-the-badge
-[stars-url]: https://github.com/ernaldis/maven-java/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ernaldis/maven-java.svg?style=for-the-badge
-[issues-url]: https://github.com/ernaldis/maven-java/issues
-[license-shield]: https://img.shields.io/github/license/ernaldis/maven-java.svg?style=for-the-badge
-[license-url]: https://github.com/ernaldis/maven-java/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ernaldis/maven-java-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/ernaldis/maven-java-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ernaldis/maven-java-template.svg?style=for-the-badge
+[forks-url]: https://github.com/ernaldis/maven-java-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/ernaldis/maven-java-template.svg?style=for-the-badge
+[stars-url]: https://github.com/ernaldis/maven-java-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ernaldis/maven-java-template.svg?style=for-the-badge
+[issues-url]: https://github.com/ernaldis/maven-java-template/issues
+[license-shield]: https://img.shields.io/github/license/ernaldis/maven-java-template.svg?style=for-the-badge
+[license-url]: https://github.com/ernaldis/maven-java-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/timothy-c-70b6081a0/
