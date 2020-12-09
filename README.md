@@ -42,7 +42,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -90,9 +90,9 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* tool
   ```sh
-  npm install npm@latest -g
+  command to install the tool
   ```
 
 ### Installation
@@ -101,12 +101,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/Ernaldis/maven-java-template.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
+   
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -140,7 +135,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Mozilla Public License 2.0, see `LICENSE` for more information.
 
 
 
@@ -166,15 +161,15 @@ Project Link: [https://github.com/Ernaldis/maven-java-template](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Ernaldis/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ernaldis/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ernaldis/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/Ernaldis/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ernaldis/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/Ernaldis/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ernaldis/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/Ernaldis/repo/issues
-[license-shield]: https://img.shields.io/github/license/Ernaldis/repo.svg?style=for-the-badge
-[license-url]: https://github.com/Ernaldis/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ernaldis/maven-java.svg?style=for-the-badge
+[contributors-url]: https://github.com/ernaldis/maven-java/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ernaldis/maven-java.svg?style=for-the-badge
+[forks-url]: https://github.com/ernaldis/maven-java/network/members
+[stars-shield]: https://img.shields.io/github/stars/ernaldis/maven-java.svg?style=for-the-badge
+[stars-url]: https://github.com/ernaldis/maven-java/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ernaldis/maven-java.svg?style=for-the-badge
+[issues-url]: https://github.com/ernaldis/maven-java/issues
+[license-shield]: https://img.shields.io/github/license/ernaldis/maven-java.svg?style=for-the-badge
+[license-url]: https://github.com/ernaldis/maven-java/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Ernaldis
+[linkedin-url]: https://www.linkedin.com/in/timothy-c-70b6081a0/
